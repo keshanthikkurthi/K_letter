@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Geometric Paper Butterfly in soft sky and honey hues -->
+  <!-- Upper Left Wing -->
+  <polygon points="50,45 8,16 16,56 46,50" fill="#B8D5E5" />
+  <polygon points="50,45 16,56 46,50" fill="#9FC2D6" />
+  <!-- Upper Right Wing -->
+  <polygon points="50,45 92,16 84,56 54,50" fill="#CCE3F0" />
+  <polygon points="50,45 84,56 54,50" fill="#A8CBDC" />
+  <!-- Lower Left Wing -->
+  <polygon points="46,50 14,64 36,88 50,60" fill="#A3C6D8" />
+  <!-- Lower Right Wing -->
+  <polygon points="54,50 86,64 64,88 50,60" fill="#BFDDEB" />
+  <!-- Butterfly Body / Fold Fold -->
+  <polygon points="50,30 46,65 54,65" fill="#4A5568" />
+  <polygon points="50,65 48,78 52,78" fill="#2D3748" />
+  <line x1="50" y1="30" x2="40" y2="18" stroke="#4A5568" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="50" y1="30" x2="60" y2="18" stroke="#4A5568" stroke-width="1.5" stroke-linecap="round" />
+</svg>

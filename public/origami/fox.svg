@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Geometric Origami Fox Head in warm terracotta -->
+  <!-- Left Ear -->
+  <polygon points="50,45 15,10 32,58" fill="#E67E52" />
+  <polygon points="50,45 28,30 32,58" fill="#D3653A" />
+  <!-- Right Ear -->
+  <polygon points="50,45 85,10 68,58" fill="#F08E64" />
+  <polygon points="50,45 72,30 68,58" fill="#E07447" />
+  <!-- Forehead & Cheeks -->
+  <polygon points="50,45 32,58 50,78" fill="#F3A17B" />
+  <polygon points="50,45 68,58 50,78" fill="#E6855B" />
+  <!-- White Snout Cheeks -->
+  <polygon points="32,58 18,65 50,78" fill="#FAF6EE" />
+  <polygon points="68,58 82,65 50,78" fill="#EFE8DA" />
+  <!-- Snout / Nose -->
+  <polygon points="50,78 44,88 56,88" fill="#3D3028" />
+  <polygon points="50,78 44,88 50,92" fill="#251E1A" />
+  <!-- Eyes -->
+  <circle cx="40" cy="62" r="2.2" fill="#2D221C" />
+  <circle cx="60" cy="62" r="2.2" fill="#2D221C" />
+</svg>

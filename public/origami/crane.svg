@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Classic Japanese Origami Paper Crane -->
+  <polygon points="50,12 36,44 50,56 64,44" fill="#FDFBF7" />
+  <polygon points="50,12 50,56 64,44" fill="#EAE5DC" />
+  <!-- Left Wing -->
+  <polygon points="50,56 36,44 6,36" fill="#F4EFEA" />
+  <polygon points="36,44 6,36 28,62" fill="#DFD7CB" />
+  <!-- Right Wing -->
+  <polygon points="50,56 64,44 94,36" fill="#FFFDFB" />
+  <polygon points="64,44 94,36 72,62" fill="#E5DFD4" />
+  <!-- Neck & Head -->
+  <polygon points="50,56 42,76 46,78 50,70" fill="#E0D7CA" />
+  <polygon points="42,76 36,88 33,86 41,75" fill="#C9BFB0" />
+  <polygon points="36,88 30,90 33,86" fill="#8B4513" />
+  <!-- Tail -->
+  <polygon points="50,56 58,78 54,82 50,70" fill="#EAE4DA" />
+  <polygon points="58,78 66,92 63,94 54,82" fill="#D6CDC0" />
+  <!-- Body Center Facet -->
+  <polygon points="50,56 46,70 50,74 54,70" fill="#D2C8B8" />
+  <!-- Subtle Fold Crease Lines -->
+  <line x1="50" y1="12" x2="50" y2="56" stroke="#D1C7B8" stroke-width="0.6" stroke-linecap="round" />
+  <line x1="36" y1="44" x2="64" y2="44" stroke="#D1C7B8" stroke-width="0.6" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Origami Lotus Flower in soft rose tones -->
+  <!-- Back Petals -->
+  <polygon points="50,15 35,40 65,40" fill="#E8B4B8" />
+  <polygon points="20,35 45,55 25,65" fill="#DF9FA5" />
+  <polygon points="80,35 55,55 75,65" fill="#F0C2C6" />
+  <!-- Side Petals -->
+  <polygon points="50,50 15,62 38,78" fill="#ECAEB3" />
+  <polygon points="50,50 85,62 62,78" fill="#F4BAC0" />
+  <!-- Front Petals -->
+  <polygon points="50,42 32,70 50,85" fill="#F7CAD0" />
+  <polygon points="50,42 68,70 50,85" fill="#EAA8AE" />
+  <!-- Base fold -->
+  <polygon points="35,82 50,92 65,82 50,85" fill="#8DAA91" />
+  <polygon points="50,85 50,92 65,82" fill="#759379" />
+</svg>

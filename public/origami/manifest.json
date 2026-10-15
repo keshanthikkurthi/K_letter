@@ -1,0 +1,38 @@
+[
+  {
+    "id": "crane",
+    "name": "Paper Crane",
+    "file": "/origami/crane.svg",
+    "width": 84
+  },
+  {
+    "id": "boat",
+    "name": "Folded Boat",
+    "file": "/origami/boat.svg",
+    "width": 90
+  },
+  {
+    "id": "fox",
+    "name": "Origami Fox",
+    "file": "/origami/fox.svg",
+    "width": 78
+  },
+  {
+    "id": "flower",
+    "name": "Origami Lotus",
+    "file": "/origami/flower.svg",
+    "width": 80
+  },
+  {
+    "id": "butterfly",
+    "name": "Paper Butterfly",
+    "file": "/origami/butterfly.svg",
+    "width": 84
+  },
+  {
+    "id": "clover",
+    "name": "Folded Clover",
+    "file": "/origami/clover.svg",
+    "width": 76
+  }
+]

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Folded Four-leaf Clover in sage & moss green -->
+  <!-- Top Leaf -->
+  <polygon points="50,50 35,22 50,8 65,22" fill="#7FA985" />
+  <polygon points="50,50 50,8 65,22" fill="#6B9672" />
+  <!-- Bottom Leaf -->
+  <polygon points="50,50 35,78 50,92 65,78" fill="#6B9672" />
+  <polygon points="50,50 50,92 35,78" fill="#58835E" />
+  <!-- Left Leaf -->
+  <polygon points="50,50 22,35 8,50 22,65" fill="#76A07C" />
+  <polygon points="50,50 8,50 22,65" fill="#5F8A65" />
+  <!-- Right Leaf -->
+  <polygon points="50,50 78,35 92,50 78,65" fill="#88B28E" />
+  <polygon points="50,50 92,50 78,65" fill="#719C77" />
+  <!-- Center Fold Node -->
+  <circle cx="50" cy="50" r="3" fill="#4B7251" />
+  <!-- Stem -->
+  <path d="M50,50 Q42,75 35,96" stroke="#486D4E" stroke-width="2.5" stroke-linecap="round" fill="none" />
+</svg>
